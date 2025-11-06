@@ -1,4 +1,9 @@
 ## Hi there 👋
+👩‍💻 AI & ML engineering student passionate about Computer Vision, Generative AI, and Intelligent Systems.
+
+🌱 Currently exploring image processing, vision-based deep learning, and the intersection of Computer Vision & IoT.
+
+🤝 Open to collaborations on AI-driven vision and robotics projects that bridge innovation and real-world impact.
 
 <!--
 **Imane-Azza/Imane-Azza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
